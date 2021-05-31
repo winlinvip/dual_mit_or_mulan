@@ -1,6 +1,6 @@
 # dual_mit_or_mulan
 
-For dual LICENSE, MIT and MulanPSL
+For dual LICENSE, MIT OR MulanPSL-2.0
 
 ## License
 
