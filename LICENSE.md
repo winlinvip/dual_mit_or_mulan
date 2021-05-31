@@ -1,7 +1,7 @@
 # LICENSE
 
-All source code of this project is distributed under the terms of the MIT
-or the Mulan PSL v2. For more information about these licenses, please see
+SRS is distributed under the terms of the MIT or the Mulan PSL v2. 
+For more information about these licenses, please see
 https://opensource.org/licenses/MIT and https://license.coscl.org.cn/MulanPSL2
 
 Individual files contain the following tag instead of the full license text.
@@ -42,7 +42,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
 Copyright (c) 2021 Winlin
-[Software Name] is licensed under Mulan PSL v2.
+SRS is licensed under Mulan PSL v2.
 You can use this software according to the terms and conditions of the Mulan PSL v2.
 You may obtain a copy of Mulan PSL v2 at:
          http://license.coscl.org.cn/MulanPSL2
