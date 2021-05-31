@@ -4,7 +4,7 @@ For dual LICENSE, MIT OR MulanPSL-2.0, follow http://spdx.org/ids/
 
 ## License
 
-This work is dual-licensed under [MIT OR MulanPSL-2.0](http://spdx.org/licenses/).
+This work is dual-licensed under [MIT](https://opensource.org/licenses/MIT) OR [MulanPSL-2.0](https://opensource.org/licenses/MulanPSL-2.0).
 You can choose between one of them if you use this work.
 
 `SPDX-License-Identifier: MIT OR MulanPSL-2.0`
