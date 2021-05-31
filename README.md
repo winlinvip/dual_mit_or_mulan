@@ -1,6 +1,6 @@
 # dual_mit_or_mulan
 
-For dual LICENSE, MIT OR MulanPSL-2.0, follow https://spdx.dev/ids/
+For dual LICENSE, MIT OR MulanPSL-2.0, follow http://spdx.org/ids/
 
 ## License
 
