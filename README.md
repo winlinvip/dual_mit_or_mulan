@@ -9,4 +9,6 @@ You can choose between one of them if you use this work.
 
 `SPDX-License-Identifier: MIT OR MulanPSL-2.0`
 
+This enables machine processing of license information based on the SPDX License Identifiers that are here available: http://spdx.org/licenses/
+
 Winlin 2021.05
