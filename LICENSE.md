@@ -6,7 +6,9 @@ https://opensource.org/licenses/MIT and https://license.coscl.org.cn/MulanPSL2
 
 Individual files contain the following tag instead of the full license text.
 
+```
 	SPDX-License-Identifier:	MIT OR MulanPSL-2.0
+```
 
 This enables machine processing of license information based on the SPDX
 License Identifiers that are here available: http://spdx.org/licenses/
